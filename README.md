@@ -1,6 +1,6 @@
 Hi there 👋, I'm Kartik Singh
 
-🚀 Passionate about AI, Cloud Computing, and Full Stack Development
+🚀 Passionate about AI, Cloud Computing, and Full Stack Development|
 🎯 Building projects in Machine Learning, Generative AI & Real-Time Systems
 📚 Currently learning Deep Learning, System Design & Cloud Technologies
 💡 Interested in AI-powered applications and scalable architectures
